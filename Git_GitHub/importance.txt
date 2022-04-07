@@ -1,0 +1,9 @@
+Como você pôde perceber, esse sistema facilita a integração de uma equipe que trabalha em um mesmo projeto.
+
+O desenvolvimento de um site, por exemplo, será facilitado se todos os desenvolvedores puderem se relacionar e fazer suas atividades em um ambiente que dá segurança no armazenamento dos dados. 
+
+O GitHub também ajuda a melhorar o gerenciamento do projeto, acompanhar o seu desenvolvimento e entender as atividades de cada pessoa envolvida. 
+
+Outra funcionalidade que ajuda a aumentar a importância do sistema é a sua automatização no fluxo de trabalho. 
+
+Tudo isso ajuda o desenvolvimento do projeto e pode ser um diferencial no mercado, já que ele está cada vez maior e com maior concorrência, com novas possibilidades tecnológicas.   
